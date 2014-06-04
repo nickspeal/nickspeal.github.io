@@ -2,7 +2,8 @@ title:            Nick Speal
 description:      Project Manager at McGill Robotics. Looking for Full-Time Employment. #Not sure where this goes. Different from bio.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000
-url:               http://nickspeal.github.io
+#url:               http://nickspeal.github.io
+url:               http://www.speal.ca
 # Owner/author information
 owner:
   name:           Nick Speal
