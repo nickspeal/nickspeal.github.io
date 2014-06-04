@@ -1,0 +1,70 @@
+title:            Nick Speal
+description:      Project Manager at McGill Robotics. Looking for Full-Time Employment. #Not sure where this goes. Different from bio.
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+#url:              http://localhost:4000
+url:               http://nickspeal.github.io
+# Owner/author information
+owner:
+  name:           Nick Speal
+  avatar:         bio-photo.png
+  bio:            "Project Manager at McGill Robotics. Looking for Full-Time Employment."
+  email:          NickSpeal@Speal.ca
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter:       nickspeal
+  facebook:      nickspeal
+  github:        
+  stackoverflow: 
+  linkedin:      nspeal
+  instagram:     nickspeal 
+  lastfm:         
+  tumblr: 
+  pinterest: 
+  foursquare: 
+  steam: 
+  dribbble: 
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:  
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:        
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /About/
+  - title: Projects
+    url: /Projects/
+  - title: Research
+    url: /Research/
+  - title: Contact
+    url: /Contact/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+pygments:    true
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
