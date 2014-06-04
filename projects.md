@@ -6,7 +6,7 @@ tagline: Beyond Academics
 tags: [Projects, McGill Robotics, LunarEx]
 modified: 3-6-2014
 image:
-  feature: asimov_underwater.jpg
+  feature: auv_underwater.jpg
 #  credit: Texture Lovers
 #  creditlink: http://texturelovers.com
 ---

@@ -3,7 +3,7 @@ layout: page
 description: "Nick Speal"
 tags: [Nick, Speal, Robotics]
 image:
-  feature: cali.jpg
+  feature: california.jpg
 #  credit: Texture Lovers
 #  creditlink: http://texturelovers.com
 ---
