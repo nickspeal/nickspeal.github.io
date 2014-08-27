@@ -23,4 +23,4 @@ Montreal, Canada, H3A 0C3
 
 ### Email
 
-NickSpeal@speal.ca
+Nick@Speal.ca

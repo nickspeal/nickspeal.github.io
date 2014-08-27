@@ -23,7 +23,7 @@ As Project Manager of McGill Robotics, I coordinated the growth of the design te
 
 ## Autonomous Underwater Vehicle
 
-As leader of the 60-person engineering team, my responsibility was to coordinate the Software, Mechanical, Electrical, and Systems divisions such that a fully autonomous underwater vehicle could be designed, built, and tested to be robust enough to compete internationally, all within less than a year. I also took on a technical role, developing the propulsion and control system for the vehicle using C++ and ROS.
+As leader of the 60-person engineering team, my responsibility was to supervise the Software, Mechanical, Electrical, and Systems divisions such that a fully autonomous underwater vehicle could be designed, built, and tested to be robust enough to compete internationally, all within less than a year. I also took on a technical role, developing the propulsion and control system for the vehicle using C++ and ROS.
 
 #####See below for media coverage of the project
 
@@ -34,7 +34,7 @@ As leader of the 60-person engineering team, my responsibility was to coordinate
 
 ## McGill LunarEx Robotics
 
-In my first year at Project Manager, we built a lunar mining robot for the NASA Lunabotics Mining Competition. After a year of hard work from the 40 committed team members, we were awarded 12th place out of 50 teams from around the world.
+In my first year as Project Manager, we built a lunar mining robot for the NASA Lunabotics Mining Competition. After a year of hard work from the 40 committed team members, we were awarded 12th place out of 50 teams from around the world.
 
 ## Braille University
 

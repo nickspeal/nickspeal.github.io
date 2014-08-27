@@ -1,5 +1,5 @@
 title:            Nick Speal
-description:      Project Manager at McGill Robotics. Looking for Full-Time Employment. #Not sure where this goes. Different from bio.
+description:      About Nick Speal. #Not sure where this goes. Different from bio.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000
 #url:               http://nickspeal.github.io
@@ -8,14 +8,14 @@ url:               http://www.speal.ca
 owner:
   name:           Nick Speal
   avatar:         bio-photo.png
-  bio:            "Project Manager at McGill Robotics. Looking for Full-Time Employment."
-  email:          NickSpeal@Speal.ca
+  bio:            "Project Manager at McGill Robotics. "
+  email:          Nick@Speal.ca
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  linkedin:      nspeal
   twitter:       nickspeal
   facebook:      nickspeal
   github:        
   stackoverflow: 
-  linkedin:      nspeal
   instagram:     nickspeal 
   lastfm:         
   tumblr: 

@@ -17,7 +17,7 @@ image:
 ## Aerospace Mechatronics Laboratory
 *2013-2014*
 
-Under the supervision of Prof Inna Sharf and Prof Meyer Nahon, I studied the thruster performance on the X8 unmanned aerial vehicle. This work was published in the proceedings of the 2014 International Conference on Unmanned Aircraft Systems. I also worked with other students on the LiDAR and other sensors to achieve autonomous take-off and landing of the vehicle in unstructured environments.
+Under the supervision of Prof Inna Sharf and Prof Meyer Nahon, I studied the thruster performance on the X8 unmanned aerial vehicle. [This work](http://dx.doi.org/10.1109/ICUAS.2014.6842370) was published in the proceedings of the 2014 International Conference on Unmanned Aircraft Systems. I also worked with other students on the LiDAR and other sensors to achieve autonomous take-off and landing of the vehicle in unstructured environments.
 
 ## Shockwave Physics Group
 *2012*
