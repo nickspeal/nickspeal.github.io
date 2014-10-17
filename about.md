@@ -6,7 +6,7 @@ tagline: About Me
 tags: [about, about]
 modified: 3-6-2014
 image:
-  feature: bike.jpg
+  feature: garibaldi.jpg
 #  credit: Texture Lovers
 #  creditlink: http://texturelovers.com
 ---
