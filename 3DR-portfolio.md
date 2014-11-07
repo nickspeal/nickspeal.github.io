@@ -11,7 +11,7 @@ image:
   creditlink: http://forthwriteable.com/2013/11/29/drones-adopted-by-the-farm-sector/
 ---
 
-I am very excited to work at 3D Robotics, North America's leading producer of unmanned aerial vehicles. My interdisciplinary background and software experience will help me learn quickly and grow with the company as we develop increasingly sophisticated autopilot performance for recreational and commercial applications.
+I would be very excited to work at 3D Robotics, North America's leading producer of unmanned aerial vehicles. My interdisciplinary background and software experience will help me learn quickly and grow with the company as we develop increasingly sophisticated autopilot performance for recreational and commercial applications.
 
 While my coding experience is just one part of what makes me a great canditade for 3DR, the focus of this page is to showcase the most relevant software projects that I have worked on.
 
