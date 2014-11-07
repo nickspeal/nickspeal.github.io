@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://localhost:4000</loc>
+        <loc>http://www.speal.ca</loc>
     </url>
     
     
     <url>
-        <loc>http://localhost:4000/404.html</loc>
+        <loc>http://www.speal.ca/404.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/About/</loc>
+        <loc>http://www.speal.ca/About/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/Contact/</loc>
+        <loc>http://www.speal.ca/Contact/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/content/3DR-portfolio/</loc>
+        <loc>http://www.speal.ca/content/3DR-portfolio/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/feed.xml</loc>
+        <loc>http://www.speal.ca/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/index.html</loc>
+        <loc>http://www.speal.ca/index.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/posts/</loc>
+        <loc>http://www.speal.ca/posts/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/Projects/</loc>
+        <loc>http://www.speal.ca/Projects/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/Research/</loc>
+        <loc>http://www.speal.ca/Research/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/sitemap.xml</loc>
+        <loc>http://www.speal.ca/sitemap.xml</loc>
     </url>
     
 
     
     <url>
-        <loc>http://localhost:4000/code-highlighting-post/</loc>
+        <loc>http://www.speal.ca/code-highlighting-post/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/readability-feature-post/</loc>
+        <loc>http://www.speal.ca/readability-feature-post/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/sample-post-images/</loc>
+        <loc>http://www.speal.ca/sample-post-images/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/readability-post/</loc>
+        <loc>http://www.speal.ca/readability-post/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/sample-post/</loc>
+        <loc>http://www.speal.ca/sample-post/</loc>
     </url>
     
 </urlset>
