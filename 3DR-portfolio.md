@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: content/3DR-portfolio/
+permalink: 3DR-portfolio/
 title: Programming Portfolio for 3D Robotics
 tagline: 
 tags: []
