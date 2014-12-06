@@ -56,7 +56,7 @@ Having worked on the assembly of two major robots, several “weekend-project”
 An appreciation for how things are made is essential for mechanical design.
 
 <div align="center">
-	<a markdown="0" target="_blank" href="http://lunarex.mcgill.ca"><img alt="McGill LunarEx Robotics: Final Mechanical Design" src="/images/lunarex/CAD.png" width="100%"></a>
+	<a markdown="0" target="_blank" href="http://lunarex.mcgill.ca"><img alt="McGill LunarEx Robotics: Final Mechanical Design" src="/images/LunarEx/CAD.png" width="100%"></a>
 </div>
 
 *This is a CAD render of the Lunar Excavator we designed and built for the NASA Lunabotics Mining Competition.*
@@ -87,9 +87,9 @@ I have also built smaller programs, such as a [class project in Control Systems]
 
 As the Project Manager for McGill Robotics, I worked with my teammates for two years on all aspects of electro-mechanical system design. This doesn’t leave me with individual accomplishments that I can showcase, but rather a broad introduction to many commonly used technologies. Some of these are listed below.
 
-* Motor selection - [[Photo](/images/lunarex/motors.jpg)]
+* Motor selection - [[Photo](/images/LunarEx/motors.jpg)]
 * Wheel tread design - [[More Info](http://liphe.mcgill.ca/lunarex.html)]
-* Suspension and dumping linkage design - [[Photo 1](/images/lunarex/robotBack.jpg)] [[Photo 2](/images/lunarex/suspension.jpg)] [[Photo 3](/images/lunarex/dumping.jpg)]
+* Suspension and dumping linkage design - [[Photo 1](/images/LunarEx/robotBack.jpg)] [[Photo 2](/images/lunarex/suspension.jpg)] [[Photo 3](/images/LunarEx/dumping.jpg)]
 * Waterproofing - [[Photo](/images/pv.jpg)]
 * PCB design - [[Photo](/images/pcb2.jpg)]
 * Electrical component pacement & wiring standards in tight spacing - [[Photo](/images/pcb3.jpg)]

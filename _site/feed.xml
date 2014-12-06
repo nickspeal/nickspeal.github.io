@@ -2,27 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Nick Speal</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2014-12-06T12:37:39-05:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://www.speal.ca/feed.xml" />
+<link rel="alternate" type="text/html" href="http://www.speal.ca" />
+<updated>2014-12-06T12:42:51-05:00</updated>
+<id>http://www.speal.ca/</id>
 <author>
   <name>Nick Speal</name>
-  <uri>/</uri>
+  <uri>http://www.speal.ca/</uri>
   <email>Nick@Speal.ca</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Sample Post]]></title>
-  <link rel="alternate" type="text/html" href="/sample-post/" />
-  <id>/sample-post</id>
+  <link rel="alternate" type="text/html" href="http://www.speal.ca/sample-post/" />
+  <id>http://www.speal.ca/sample-post</id>
   <updated>2013-05-31T00:00:00-00:00</updated>
   <published>2011-03-10T00:00:00-05:00</published>
   
   <author>
     <name>Nick Speal</name>
-    <uri></uri>
+    <uri>http://www.speal.ca</uri>
     <email>Nick@Speal.ca</email>
   </author>
   <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
@@ -84,7 +84,7 @@
 
 &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
 
-&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;http://www.speal.ca/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This is emphasized&lt;/em&gt;. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
 
@@ -177,7 +177,7 @@
 
 &lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;This is a button&lt;/a&gt;&lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/sample-post/&quot;&gt;Sample Post&lt;/a&gt; was originally published by Nick Speal at &lt;a href=&quot;&quot;&gt;Nick Speal&lt;/a&gt; on March 10, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.speal.ca/sample-post/&quot;&gt;Sample Post&lt;/a&gt; was originally published by Nick Speal at &lt;a href=&quot;http://www.speal.ca&quot;&gt;Nick Speal&lt;/a&gt; on March 10, 2011.&lt;/p&gt;</content>
 </entry>
 
 </feed>
