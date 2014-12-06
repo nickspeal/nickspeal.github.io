@@ -19,7 +19,7 @@ image:
 
 ## Project Manager At McGill Robotics
 
-As Project Manager of McGill Robotics, I coordinated the growth of the design team from 2 returning members to a team of 98 committed students that competes in multiple competitions against universities from around the world. Coining our motto, *Team Before Machine*, I have prioritized the long-term development of a cohesive team with effective mechanisms for learning new skills as we work together to build robots.
+As Project Manager of McGill Robotics, I led the team through its growth from 2 returning members to 98 committed students that competes in multiple competitions against universities from around the world. Coining our motto, *Team Before Machine*, I have prioritized the long-term development of a cohesive team with a focus on learning new skills as we work together to build robots. 
 
 ## Autonomous Underwater Vehicle
 
