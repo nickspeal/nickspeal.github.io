@@ -16,7 +16,7 @@ image:
 
 I would be very excited to work for DarkVision: a growing company building a product with enormous potential. The startup atmosphere is a very motivating and the product lies right at the intersection of my interests and background: the integration of mechanical, electrical, and software systems. 
 
-It is difficult to prepare a portfolio because a lot my work doesn't lend itself to presentation in this format. On this page, I have included links to my work where possible and provided brief descriptions otherwise.
+It is difficult to prepare a portfolio because a lot my work hasn't had deliverables that lend themselves to presentation in this format. On this page, I have included links to my work where possible and provided brief descriptions otherwise.
 
 ## About Me
 
@@ -43,7 +43,7 @@ My technical competencies are built upon a foundation in Mechanical Engineering.
 
 #### Hands-On Experience
 
-Beyond Academics, I feel that I have learned at least as much through practical hands-on experience.
+Beyond academics, I feel that I have learned at least as much through practical hands-on experience.
 
 I have logged approximately 150 hours in the machine shop, primarily on the vertical mill and lathe. I have gotten quick at churning out simple parts, but our waterproof seals and bearing fits required extra care and patient metrology to achieve dimensions within .002”. 
 
@@ -76,7 +76,7 @@ Most recently, I built the control system for our autonomous underwater vehicle 
 
 I also built a Graphical User Interface in Python. This application made it easy for users to enter over 100 parameters, run turbomachinery simulations, and plot the results. However, I am not allowed to share the intellectual property from this project.
 
-The next summer, I worked in the Shockwave Physics Lab at McGill. Here, I developed a simulator in MATLAB to model the physical interactions of granular particles.
+The next summer, I worked in the Shockwave Physics Lab at McGill. Here, I developed a simulator in MATLAB to model the physical interactions of granular particles. I implemented a model of the particles' dynamics and studied the jamming phenomenon as they are compacted in a rigid chamber.
 
 As a part of a term project in Human Computer Interaction, I worked on a team of three students to build an iOS app to help teach braille to visually impaired users. Since then, I have been hired part-time by the University of Montreal’s School of Optometry, and I am working on finalizing the application to publish on the app store.
 
@@ -89,8 +89,9 @@ As the Project Manager for McGill Robotics, I worked with my teammates for two y
 
 * Motor selection - [[Photo](/images/LunarEx/motors.jpg)]
 * Wheel tread design - [[More Info](http://liphe.mcgill.ca/lunarex.html)]
-* Suspension and dumping linkage design - [[Photo 1](/images/LunarEx/robotBack.jpg)] [[Photo 2](/images/lunarex/suspension.jpg)] [[Photo 3](/images/LunarEx/dumping.jpg)]
+* Suspension and dumping linkage design - [[Photo 1](/images/LunarEx/robotBack.jpg)] [[Photo 2](/images/LunarEx/suspension.jpg)] [[Photo 3](/images/LunarEx/dumping.jpg)]
 * Waterproofing - [[Photo](/images/pv.jpg)]
+* Arduino-based test-rigs - [[Photo](/images/LunarEx/testrig.jpg)]
 * PCB design - [[Photo](/images/pcb2.jpg)]
 * Electrical component pacement & wiring standards in tight spacing - [[Photo](/images/pcb3.jpg)]
 * 2nd-hand thruster repair - [[Photo](/images/rotor.jpg)]
@@ -102,6 +103,10 @@ Our collective work was recognized with Third Place in design (out of 39 interna
 ## Work Experience
 
 Leading a large student team felt a lot like starting a company. I learned about the subtler aspects of what makes a business run. First and foremost, I’ve come to understand the importance of team dynamics, championing the phrase *Team Before Machine*. Graphite Publications published an article on my philosophy [here](http://graphitepublications.com/team-building-with-mcgill-robotics/).
+
+<div align="center">
+	<a markdown="0" target="_blank" href="http://graphitepublications.com/team-building-with-mcgill-robotics/"><img alt="Team Building with McGill Robotics - Graphite Publications" src="/images/graphite.png" width="48%"></a>
+</div>
 
 I also know the role that the business side of the company plays in a successful engineering firm. Marketing, fundraising, and accounting can make a big difference, and my efforts to build a strong business team within McGill Robotics helped us recruit so many talented students, raise enough money to build our robots and fund travel to the competition, and earn us recognition in the larger McGill community. I spearheaded the sponsorship effort to raise $90,000 of cash and in-kind donations over 2 years. At the RoboSub competition, we earned 1st place for Best Branding and Business Development.
 
