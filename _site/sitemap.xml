@@ -1,54 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://www.speal.ca</loc>
+        <loc></loc>
     </url>
     
     
     <url>
-        <loc>http://www.speal.ca/3DR-portfolio/</loc>
+        <loc>/3DR-portfolio/</loc>
     </url>
     
     <url>
-        <loc>http://www.speal.ca/404.html</loc>
+        <loc>/404.html</loc>
     </url>
     
     <url>
-        <loc>http://www.speal.ca/About/</loc>
+        <loc>/About/</loc>
     </url>
     
     <url>
-        <loc>http://www.speal.ca/Contact/</loc>
+        <loc>/BrailleUniversity/</loc>
     </url>
     
     <url>
-        <loc>http://www.speal.ca/DarkVision-portfolio/</loc>
+        <loc>/Contact/</loc>
     </url>
     
     <url>
-        <loc>http://www.speal.ca/feed.xml</loc>
+        <loc>/DarkVision-portfolio/</loc>
     </url>
     
     <url>
-        <loc>http://www.speal.ca/index.html</loc>
+        <loc>/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://www.speal.ca/Projects/</loc>
+        <loc>/index.html</loc>
     </url>
     
     <url>
-        <loc>http://www.speal.ca/Research/</loc>
+        <loc>/Projects/</loc>
     </url>
     
     <url>
-        <loc>http://www.speal.ca/sitemap.xml</loc>
+        <loc>/Research/</loc>
+    </url>
+    
+    <url>
+        <loc>/sitemap.xml</loc>
     </url>
     
 
     
     <url>
-        <loc>http://www.speal.ca/sample-post/</loc>
+        <loc>/sample-post/</loc>
     </url>
     
 </urlset>
