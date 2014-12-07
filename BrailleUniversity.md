@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: BrailleUniversity/
+permalink: brailleuniversity/
 title: Braille University
 tagline: 
 tags: []
