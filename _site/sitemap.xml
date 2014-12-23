@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc></loc>
+        <loc>http://www.speal.ca</loc>
     </url>
     
     
     <url>
-        <loc>/404.html</loc>
+        <loc>http://www.speal.ca/404.html</loc>
     </url>
     
     <url>
-        <loc>/About/</loc>
+        <loc>http://www.speal.ca/About/</loc>
     </url>
     
     <url>
-        <loc>/brailleuniversity/</loc>
+        <loc>http://www.speal.ca/brailleuniversity/</loc>
     </url>
     
     <url>
-        <loc>/Contact/</loc>
+        <loc>http://www.speal.ca/Contact/</loc>
     </url>
     
     <url>
-        <loc>/feed.xml</loc>
+        <loc>http://www.speal.ca/feed.xml</loc>
     </url>
     
     <url>
-        <loc>/index.html</loc>
+        <loc>http://www.speal.ca/index.html</loc>
     </url>
     
     <url>
-        <loc>/Projects/</loc>
+        <loc>http://www.speal.ca/Projects/</loc>
     </url>
     
     <url>
-        <loc>/Research/</loc>
+        <loc>http://www.speal.ca/Research/</loc>
     </url>
     
     <url>
-        <loc>/sitemap.xml</loc>
+        <loc>http://www.speal.ca/sitemap.xml</loc>
     </url>
     
 
     
     <url>
-        <loc>/Christmas-Card-2014/</loc>
+        <loc>http://www.speal.ca/Christmas-Card-2014/</loc>
     </url>
     
 </urlset>
