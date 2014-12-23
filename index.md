@@ -9,7 +9,6 @@ image:
 ---
 
 
-I was born in New York City and earned a Mechanical Engineering degree at McGill University in Montreal. As the Project Manager for McGill Robotics, I led the team in its most successful year ever at the NASA Lunabotics Mining Competition and oversaw its growth to 98 students competing in multiple competitions against universities from around the world.
+I am a technology enthusiast with an engineering background in robotics. At McGill University, I was the Project Manager of McGill Robotics, a student design team that built a lunar rover and an autonomous underwater vehicle for international competitions. Over the course of three years of research at McGill, I've studied unmanned aerial vehicles and shockwave physics, and I built a graphical user interface for turbomachinery simulations.
 
-I am looking for a full-time position in the high-tech industry where I can work with peers across disciplines to solve challenging technical problems.
-
+After an amazing roadtrip around North America, I've settled in the San Francisco Bay Area, where I am working as an Engineering Project Manager at [3D Robotics](http://www.3drobotics.com). At 3DR, we're helping people see their world from above.

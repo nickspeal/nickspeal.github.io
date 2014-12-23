@@ -39,3 +39,5 @@ In my first year as Project Manager, we built a lunar mining robot for the NASA 
 ## Braille University
 
 As a part of a term project in Human Computer Interaction, I worked on a team of three students to build an iOS app to help teach braille to visually impaired users.
+
+Read more on the [project page](/BrailleUniversity).
