@@ -3,12 +3,12 @@ description:      About Nick Speal. #Not sure where this goes. Different from bi
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000 #default
 #url:               http://nickspeal.github.io
-#url:               http://www.speal.ca
+url:               http://www.speal.ca
 # Owner/author information
 owner:
   name:           Nick Speal
   avatar:         bio-photo.png
-  bio:            'Roboticist || Adventurer EPM at 3D Robotics'
+  bio:            'Roboticist || Adventurer Berkeley, California'
   email:          Nick@Speal.ca
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   linkedin:      nspeal
