@@ -30,6 +30,10 @@
     </url>
     
     <url>
+        <loc>/blog/</loc>
+    </url>
+    
+    <url>
         <loc>/Projects/</loc>
     </url>
     
@@ -45,10 +49,6 @@
     
     <url>
         <loc>/Christmas-Card-2014/</loc>
-    </url>
-    
-    <url>
-        <loc>/sample-post/</loc>
     </url>
     
 </urlset>
