@@ -2,27 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Nick Speal</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2014-12-26T14:58:50-05:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://www.speal.ca/feed.xml" />
+<link rel="alternate" type="text/html" href="http://www.speal.ca" />
+<updated>2014-12-26T14:59:51-05:00</updated>
+<id>http://www.speal.ca/</id>
 <author>
   <name>Nick Speal</name>
-  <uri>/</uri>
+  <uri>http://www.speal.ca/</uri>
   <email>Nick@Speal.ca</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[2014 - A Year In Review]]></title>
-  <link rel="alternate" type="text/html" href="/2014review/" />
-  <id>/2014review</id>
+  <link rel="alternate" type="text/html" href="http://www.speal.ca/2014review/" />
+  <id>http://www.speal.ca/2014review</id>
   <updated>2014-12-25T00:00:00-00:00</updated>
   <published>2014-12-30T00:00:00-05:00</published>
   
   <author>
     <name>Nick Speal</name>
-    <uri></uri>
+    <uri>http://www.speal.ca</uri>
     <email>Nick@Speal.ca</email>
   </author>
   <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
@@ -162,20 +162,20 @@
 &lt;p&gt;I hope you and yours have had a very happy holiday season to wrap up an excellent year and will consider sharing an update as well! All the best for 2015!&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/2014review/&quot;&gt;2014 - A Year In Review&lt;/a&gt; was originally published by Nick Speal at &lt;a href=&quot;&quot;&gt;Nick Speal&lt;/a&gt; on December 30, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.speal.ca/2014review/&quot;&gt;2014 - A Year In Review&lt;/a&gt; was originally published by Nick Speal at &lt;a href=&quot;http://www.speal.ca&quot;&gt;Nick Speal&lt;/a&gt; on December 30, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[My New Job]]></title>
-  <link rel="alternate" type="text/html" href="/My-New-Job/" />
-  <id>/My-New-Job</id>
+  <link rel="alternate" type="text/html" href="http://www.speal.ca/My-New-Job/" />
+  <id>http://www.speal.ca/My-New-Job</id>
   <updated>2014-12-26T00:00:00-00:00</updated>
   <published>2014-12-26T00:00:00-05:00</published>
   
   <author>
     <name>Nick Speal</name>
-    <uri></uri>
+    <uri>http://www.speal.ca</uri>
     <email>Nick@Speal.ca</email>
   </author>
   <content type="html">&lt;p&gt;I am excited to be starting a new job in the new year! I’ll be an Engineering Project Manager at &lt;a href=&quot;http://www.3drobotics.com&quot;&gt;3D Robotics&lt;/a&gt;, in Berkeley, California.&lt;/p&gt;
@@ -199,7 +199,7 @@
 &lt;br /&gt;&lt;br /&gt;
 You can find out more about 3D Robotics on the company’s website &lt;a href=&quot;http://www.3drobotics.com&quot;&gt;here&lt;/a&gt;, and I recommend following them on Instagram &lt;a href=&quot;http://www.instagram.com/3drobotics&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/My-New-Job/&quot;&gt;My New Job&lt;/a&gt; was originally published by Nick Speal at &lt;a href=&quot;&quot;&gt;Nick Speal&lt;/a&gt; on December 26, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.speal.ca/My-New-Job/&quot;&gt;My New Job&lt;/a&gt; was originally published by Nick Speal at &lt;a href=&quot;http://www.speal.ca&quot;&gt;Nick Speal&lt;/a&gt; on December 26, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
