@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-12-24T16:47:50-05:00</updated>
+<updated>2014-12-26T00:47:49-05:00</updated>
 <id>/</id>
 <author>
   <name>Nick Speal</name>
@@ -14,11 +14,11 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Christmas Card 2014]]></title>
-  <link rel="alternate" type="text/html" href="/Christmas-Card-2014/" />
-  <id>/Christmas-Card-2014</id>
+  <title type="html"><![CDATA[2014 - A Year In Review]]></title>
+  <link rel="alternate" type="text/html" href="/2014review/" />
+  <id>/2014review</id>
   <updated>2014-12-25T00:00:00-00:00</updated>
-  <published>2014-12-25T00:00:00-05:00</published>
+  <published>2014-12-30T00:00:00-05:00</published>
   
   <author>
     <name>Nick Speal</name>
@@ -67,7 +67,9 @@
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;We rebranded as McGill Robotics and found a new competition: and international competition in San Diego for autonomous underwater vehicles. The &lt;a href=&quot;http://www.robosub.org&quot;&gt;17th annual RoboSub Competition&lt;/a&gt; had a number of teams that had been improving their vehicles for many years, so we knew we had our work cut out for us in our very first year! I decided that the team would be better off in the long-run if we focused on building a strong core foundation of expertise, rather than trying to build a winning vehicle in our first year. This inspired the motto, Team Before Machine. &lt;a href=&quot;http://graphitepublications.com/team-building-with-mcgill-robotics/&quot;&gt;Graphite Publications&lt;/a&gt;, &lt;a href=&quot;http://bullandbearmcgill.com/putting-the-team-before-the-machine-2/&quot;&gt;The Bull &amp;amp; Bear&lt;/a&gt;, and &lt;a href=&quot;http://publications.mcgill.ca/reporter/2014/07/mcgill-team-making-waves-at-robosub-competition/&quot;&gt;The McGill Reporter&lt;/a&gt; wrote articles about this strategy we took. Nearly 100 of us spent a full year working on this and a few other robots, learning so much in the process! In July, everything had finally come together, and my friend Mike and I drove the gear all the way across the country to San Diego for the big competition. It was a week of excitement, hard-work, socializing and learning from the other teams, and ultimately success!&lt;/p&gt;
+&lt;p&gt;We rebranded as McGill Robotics and found a new competition: an international competition in San Diego for autonomous underwater vehicles. The &lt;a href=&quot;http://www.robosub.org&quot;&gt;17th annual RoboSub Competition&lt;/a&gt; had a number of teams that had been improving their vehicles for many years, so we knew we had our work cut out for us in our very first year! I decided that the team would be better off in the long-run if we focused on building a strong core foundation of expertise, rather than trying to build a winning vehicle in our first year. This inspired the motto, Team Before Machine. &lt;a href=&quot;http://graphitepublications.com/team-building-with-mcgill-robotics/&quot;&gt;Graphite Publications&lt;/a&gt;, &lt;a href=&quot;http://bullandbearmcgill.com/putting-the-team-before-the-machine-2/&quot;&gt;The Bull &amp;amp; Bear&lt;/a&gt;, and &lt;a href=&quot;http://publications.mcgill.ca/reporter/2014/07/mcgill-team-making-waves-at-robosub-competition/&quot;&gt;The McGill Reporter&lt;/a&gt; wrote articles about this strategy we took. Nearly 100 of us spent a full year working on this and a few other robots, learning so much in the process!&lt;/p&gt;
+
+&lt;p&gt;In July, everything had finally come together, so my friend Mike and I drove the gear all the way across the country to San Diego for the big competition. It was a week of excitement, hard-work, socializing and learning from the other teams, and ultimately success!&lt;/p&gt;
 
 &lt;p&gt;We won 10th place overall, with 3rd place in Design and a special judges award for Best Branding and Business Development. &lt;/p&gt;
 
@@ -90,7 +92,7 @@
   &lt;a href=&quot;/images/map.jpg&quot;&gt;&lt;img alt=&quot;Road Trip Across the USA&quot; src=&quot;/images/map.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;We picked a great 7-day route across the US, camping or staying with friends wherever possible. Our first stop was the cottage in Kingston, followed by a night in Oakville with my Aunt Allison and then a night out on the town in Chicago with some of Mike’s friends. In Nebraska we found a campsite off a beautiful lake, surrounded by hundreds of miles of corn fields and wind farms. The next stop was Boulder, Colorado, and Mike’s friend Tobin showed us beautiful views with a hike up a nearby mountain. From there, we had a stunning drive through the rockies and made it to Moab, Utah for sunset - a little too late for photos. So instead we woke up super early and caught the most amazing sunrise in Arches National Park before heading to the Grand Canyon. The next day we arrived in San Diego and headed straight for the beach to meet up with the team. We headed to Starbucks to talk business, and that kickstarted one last week of hard work. &lt;/p&gt;
+&lt;p&gt;We picked a great 7-day route across the US, camping or staying with friends wherever possible. Our first stop was the cottage in Kingston, followed by a night in Oakville with my Aunt Allison and then a night out on the town in Chicago with some of Mike’s friends. In Nebraska we found a campsite off a beautiful lake, surrounded by hundreds of miles of corn fields and wind farms. The next stop was Boulder, Colorado, and Mike’s friend Tobin showed us beautiful views with a hike up a nearby mountain. From there, we had a stunning drive through the rockies and made it to Moab, Utah for sunset - a little too late for photos. So instead we woke up super early and caught the most amazing sunrise in Arches National Park before heading to the Grand Canyon. The next day we arrived in San Diego and headed straight for the beach to meet up with the team. We went to Starbucks to talk business, and that kickstarted one last week of hard work. &lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;
   &lt;a href=&quot;/images/roadtrip.jpg&quot;&gt;&lt;img alt=&quot;Road Trip Across the USA&quot; src=&quot;/images/roadtrip.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
@@ -117,8 +119,9 @@
   &lt;a href=&quot;https://www.facebook.com/nickspeal/media_set?set=a.10154645422820226&amp;amp;type=1&quot; class=&quot;btn&quot;&gt;View the full photo album&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Back in Vancouver, Ed and his family were generous enough to put me up for some three weeks and I enjoyed the temporary stability of staying in one place with a bunch of my college friends in the same city. I’m especially grateful for the time I got to spend there with my Aunt and Uncle, Jan and Grant. We went on a big hike up to Lake Garabaldi, watched movies, and connected really well.
-Eventually it was time to move on, so I aimed the car south and planned to spend a week in the woods in Washington and Oregon, 2 states that I didn’t get to see much of in my hurry to get to Vancouver. I was really looking forward to trying out the solitude, because the rest of the trip had always been with close friends. Unfortunately my timing could have been better and it was cold and rainy the whole time. I didn’t have the motivation to make a fire to cook for myself, so I was eating cold food and wasn’t particularly happy. Many people told me I had to check out the beautiful Crater Lake, but when I got there, it looked like this. &lt;/p&gt;
+&lt;p&gt;Back in Vancouver, Ed and his family were generous enough to put me up for three weeks and I enjoyed the temporary stability of staying in one place with a bunch of my college friends in the same city. I’m especially grateful for the time I got to spend there with my Aunt and Uncle, Jan and Grant. We went on a big hike up to Lake Garabaldi, watched movies, and connected really well.&lt;/p&gt;
+
+&lt;p&gt;Eventually it was time to move on, so I aimed the car south and planned to spend a week in the woods in Washington and Oregon, 2 states that I didn’t get to see much of in my hurry to get to Vancouver. I was really looking forward to trying out the solitude, because the rest of the trip had always been with close friends. Unfortunately my timing could have been better and it was cold and rainy the whole time. I didn’t have the motivation to make a fire to cook for myself, so I was eating cold food and wasn’t particularly happy. Many people told me I had to check out the beautiful Crater Lake, but when I got there, it looked like this. &lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;
   &lt;a href=&quot;/images/craterlake.jpg&quot;&gt;&lt;img alt=&quot;Crater Lake&quot; src=&quot;/images/craterlake.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
@@ -147,7 +150,7 @@ Eventually it was time to move on, so I aimed the car south and planned to spend
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Within 2 days of getting the job, I found an apartment nearby. It’s a beautiful home in the quiet town of Berkeley. I’ll be able to bike to work and hopefully will still hang out in the big city across the bay.&lt;/p&gt;
+&lt;p&gt;Within 2 days of getting the job, I found an apartment nearby. It’s a beautiful home in the quiet town of Berkeley. I’ll be able to bike to work and hopefully will still hang out in the big city of San Francisco across the bay.&lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;
   &lt;a href=&quot;/images/apartment.jpg&quot;&gt;&lt;img alt=&quot;3D Robotics&quot; src=&quot;/images/apartment.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
@@ -156,10 +159,45 @@ Eventually it was time to move on, so I aimed the car south and planned to spend
 
 &lt;p&gt;In engineering school I’ve become fascinated with robotics and technology, and on my roadtrip I’ve fallen in love with the California lifestyle of helping your neighbours and being outdoors. I’m looking forward to a new routine in 2015, where I will hopefully have the best of both worlds.&lt;/p&gt;
 
-&lt;p&gt;I hope you and yours have a very happy holiday season and will consider sharing an update on your year as well! All the best for 2015!&lt;/p&gt;
+&lt;p&gt;I hope you and yours have had a very happy holiday season to wrap up an excellent year and will consider sharing an update as well! All the best for 2015!&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/Christmas-Card-2014/&quot;&gt;Christmas Card 2014&lt;/a&gt; was originally published by Nick Speal at &lt;a href=&quot;&quot;&gt;Nick Speal&lt;/a&gt; on December 25, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/2014review/&quot;&gt;2014 - A Year In Review&lt;/a&gt; was originally published by Nick Speal at &lt;a href=&quot;&quot;&gt;Nick Speal&lt;/a&gt; on December 30, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[My New Job]]></title>
+  <link rel="alternate" type="text/html" href="/My-New-Job/" />
+  <id>/My-New-Job</id>
+  <updated>2014-12-26T00:00:00-00:00</updated>
+  <published>2014-12-26T00:00:00-05:00</published>
+  
+  <author>
+    <name>Nick Speal</name>
+    <uri></uri>
+    <email>Nick@Speal.ca</email>
+  </author>
+  <content type="html">&lt;p&gt;I am excited to be starting a new job in the new year! I’ll be an Engineering Project Manager at &lt;a href=&quot;http://www.3drobotics.com&quot;&gt;3D Robotics&lt;/a&gt;, in Berkeley, California!&lt;/p&gt;
+
+&lt;p&gt;3D Robotics is a startup that was founded in 2009 and makes Unmanned Aerial Vehicles, or drones, for photography. The mission is to help people see their world from above. So far, the company has been quite successful selling components to hobbyists, and is currently redesigning the user experience to make complete ready-to-fly autonomous systems more accessible to everyday consumers.&lt;/p&gt;
+
+&lt;p&gt;Drones open up a new dimension and perspective for photography, and we are all going to start seeing more beautiful photos and videos from above as the technology grows in popularity. &lt;a href=&quot;http://www.instagram.com/3drobotics&quot;&gt;3DR’s Instagram&lt;/a&gt; is fantastic, in my opinion, and definitely worth following to get a sense of how these vehicles can be used. Action sports enthusiasts have been early adopters, and you’ll notice that many of &lt;a href=&quot;http://www.youtube.com/results?search_query=gopro&quot;&gt;GoPro’s promotional videos&lt;/a&gt; predominantly feature aerial shots. There are also a lot of ways that commercial operations such as agriculture and construction can use drones to gather information to save money, so this market is expected to expand as the legal framework emerges. 3D Robotics explicitly makes its products for non-military purposes.&lt;/p&gt;
+
+&lt;p&gt;I’ll be one of approximately 30 employees in the Berkeley office, and the company also has locations in San Diego, Austin, and Tijuana. We’re working on an exciting new product and my mission as Engineering Project Manager is to make things go faster. I’m not a manager in the sense that I’m anybody’s boss, but instead I will be diagnosing problems as they come up, running tests as necessary, and working with the other engineers to decide on the appropriate course of action. &lt;/p&gt;
+
+&lt;p&gt;I’m thrilled with this job description as it combines some of the main aspects of what I’ve loved about McGill Robotics: teamwork, problem solving, product development, interdisciplinary learning, and creativity. I love how I’ll be working with people every day while still being fully immersed in technical engineering challenges. I can’t wait to get started!&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+  &lt;img alt=&quot;Email me at 3D Robotics (Work Related Only Please)&quot; src=&quot;/images/posts_mynewjob/email.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve taken my time to introspect and figure out what exactly I wanted and then looked around a lot for the perfect job. I’m incredibly grateful for everybody who has taken the time to help me figure this out. Trusted friends, family, and mentors have supported me with reassuring advice and valuable suggestions. Busy strangers have generously opened their doors to me with meaningful insight from different perspectives. If you’re reading this blog post, you probably helped me out in my open-ended search for what’s next. I can’t express my appreciation deeply enough. Thank you! Let’s please stay in touch!
+&lt;br /&gt;&lt;br /&gt;
+&lt;em&gt;You can find out more about 3D Robotics on &lt;a href=&quot;http://www.3drobotics.com&quot;&gt;the company’s website&lt;/a&gt;, and I recommend following them on &lt;a href=&quot;http://www.instagram.com/3drobotics&quot;&gt;Instagram&lt;/a&gt;!&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/My-New-Job/&quot;&gt;My New Job&lt;/a&gt; was originally published by Nick Speal at &lt;a href=&quot;&quot;&gt;Nick Speal&lt;/a&gt; on December 26, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
