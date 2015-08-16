@@ -11,16 +11,14 @@ image:
 #  creditlink: http://texturelovers.com
 ---
 
+The best way to reach me is by email:
+Nick@speal.ca
+Nick@3dr.com
+
+Correspondence related to my work at 3D Robotics can be sent to the following address:
+
+Nick Speal, 3D Robotics
+1608 Fourth St, Suite 410
+Berkeley, CA, 94710
 
 
-Nick Speal, Dept of Mechanical Engineering
-
-817 Sherbrooke St West, MD 270
-
-Montreal, Canada, H3A 0C3
-
-
-
-### Email
-
-Nick@Speal.ca
