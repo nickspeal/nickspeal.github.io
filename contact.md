@@ -15,7 +15,7 @@ The best way to reach me is by email:
 Nick@speal.ca
 Nick@3dr.com
 
-Correspondance related to my work at 3D Robotics can be sent to the following address:
+Correspondence related to my work at 3D Robotics can be sent to the following address:
 
 Nick Speal, 3D Robotics
 1608 Fourth St, Suite 410
