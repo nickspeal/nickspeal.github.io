@@ -11,11 +11,17 @@ image:
 #  creditlink: http://texturelovers.com
 ---
 
+
+### Email
+
 The best way to reach me is by email:
 
 Nick@speal.ca
 
 Nick@3dr.com
+
+
+### Mail
 
 Correspondence related to my work at 3D Robotics can be sent to the following address:
 
