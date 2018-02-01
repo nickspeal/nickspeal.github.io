@@ -1,9 +1,9 @@
 ---
 layout: page
 description: "Nick Speal"
-tags: [Nick, Speal, Robotics]
+tags: [Nick, Speal]
 image:
-  feature: sierras.jpg
+  feature: garibaldi.jpg
 ---
 
 I'm a software engineer with a background in full-stack web development and robotics. I'm currently taking three months to study the ways in which educational software can augment traditional classrooms, especially for children who have been under-served by a system that all too often perpetuates economic inequality.
