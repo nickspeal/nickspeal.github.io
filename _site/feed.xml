@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.speal.ca/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.speal.ca" />
-<updated>2014-12-29T19:52:53-05:00</updated>
+<updated>2018-01-31T23:31:43-05:00</updated>
 <id>http://www.speal.ca/</id>
 <author>
   <name>Nick Speal</name>
@@ -31,10 +31,10 @@
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#nick-speal-beng-14&quot;&gt;Nick Speal, B.Eng ‘14&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#mcgill-robotics&quot;&gt;McGill Robotics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#road-trip&quot;&gt;Road Trip&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#a-new-life-in-berkeley-california&quot;&gt;A New Life in Berkeley, California&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nick-speal-beng-14&quot; id=&quot;markdown-toc-nick-speal-beng-14&quot;&gt;Nick Speal, B.Eng ‘14&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#mcgill-robotics&quot; id=&quot;markdown-toc-mcgill-robotics&quot;&gt;McGill Robotics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#road-trip&quot; id=&quot;markdown-toc-road-trip&quot;&gt;Road Trip&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-new-life-in-berkeley-california&quot; id=&quot;markdown-toc-a-new-life-in-berkeley-california&quot;&gt;A New Life in Berkeley, California&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
   &lt;/div&gt;
@@ -71,7 +71,7 @@
 
 &lt;p&gt;In July, everything had finally come together, so my friend Mike and I drove the gear all the way across the country to San Diego for the big competition. It was a week of excitement, hard-work, socializing and learning from the other teams, and ultimately success!&lt;/p&gt;
 
-&lt;p&gt;We won 10th place overall, with 3rd place in Design and a special judges award for Best Branding and Business Development. &lt;/p&gt;
+&lt;p&gt;We won 10th place overall, with 3rd place in Design and a special judges award for Best Branding and Business Development.&lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;
 &lt;a href=&quot;https://www.facebook.com/media/set/?set=a.790759697622071.1073741832.451245104906867&amp;amp;type=3&quot; class=&quot;btn&quot;&gt;Competition Photo Album&lt;/a&gt;
@@ -84,7 +84,7 @@
 
 &lt;h1 id=&quot;road-trip&quot;&gt;Road Trip&lt;/h1&gt;
 
-&lt;p&gt;In July, we had to get our robot, gear, and 25 people from Montreal to San Diego for the RoboSub competition. We didn’t want to ship the robot because it would have to leave much earlier and would leave too much faith in the hands of a shipping company. So Mike and I decided to drive, with the rest of the team joining us by airplane. &lt;/p&gt;
+&lt;p&gt;In July, we had to get our robot, gear, and 25 people from Montreal to San Diego for the RoboSub competition. We didn’t want to ship the robot because it would have to leave much earlier and would leave too much faith in the hands of a shipping company. So Mike and I decided to drive, with the rest of the team joining us by airplane.&lt;/p&gt;
 
 &lt;p&gt;If we are Facebook friends, you can see the photo album &lt;a href=&quot;https://www.facebook.com/mike.king214/media_set?set=a.10202998127774211.1234920392&amp;amp;type=3&quot;&gt;here&lt;/a&gt;. If not, you can follow along on &lt;a href=&quot;https://twitter.com/search?f=realtime&amp;amp;q=%23roadtorobosub&amp;amp;src=typd&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 
@@ -92,14 +92,14 @@
   &lt;a href=&quot;/images/map.jpg&quot;&gt;&lt;img alt=&quot;Road Trip Across the USA&quot; src=&quot;/images/map.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;We picked a great 7-day route across the US, camping or staying with friends wherever possible. Our first stop was the cottage in Kingston, followed by a night in Oakville with my Aunt Allison and then a night out on the town in Chicago with some of Mike’s friends. In Nebraska we found a campsite off a beautiful lake, surrounded by hundreds of miles of corn fields and wind farms. The next stop was Boulder, Colorado, and Mike’s friend Tobin showed us beautiful views with a hike up a nearby mountain. From there, we had a stunning drive through the rockies and made it to Moab, Utah for sunset - a little too late for photos. So instead we woke up super early and caught the most amazing sunrise in Arches National Park before heading to the Grand Canyon. The next day we arrived in San Diego and headed straight for the beach to meet up with the team. We went to Starbucks to talk business, and that kickstarted one last week of hard work. &lt;/p&gt;
+&lt;p&gt;We picked a great 7-day route across the US, camping or staying with friends wherever possible. Our first stop was the cottage in Kingston, followed by a night in Oakville with my Aunt Allison and then a night out on the town in Chicago with some of Mike’s friends. In Nebraska we found a campsite off a beautiful lake, surrounded by hundreds of miles of corn fields and wind farms. The next stop was Boulder, Colorado, and Mike’s friend Tobin showed us beautiful views with a hike up a nearby mountain. From there, we had a stunning drive through the rockies and made it to Moab, Utah for sunset - a little too late for photos. So instead we woke up super early and caught the most amazing sunrise in Arches National Park before heading to the Grand Canyon. The next day we arrived in San Diego and headed straight for the beach to meet up with the team. We went to Starbucks to talk business, and that kickstarted one last week of hard work.&lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;
   &lt;a href=&quot;/images/roadtrip.jpg&quot;&gt;&lt;img alt=&quot;Road Trip Across the USA&quot; src=&quot;/images/roadtrip.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;After competition, the feeling of graduation finally kicked in. Bryan joined Mike and me in LA, and we started a tour of California. We went surfing with Julian on Manhattan Beach, then up to San Francisco, where Luc brought us to a party at Twitter’s HQ. John and Ally showed us a great time for a couple days in Lake Tahoe, and we spent a day in Yosemite before going back to SF for a tour of Google and another tech party at Dropbox. &lt;/p&gt;
+&lt;p&gt;After competition, the feeling of graduation finally kicked in. Bryan joined Mike and me in LA, and we started a tour of California. We went surfing with Julian on Manhattan Beach, then up to San Francisco, where Luc brought us to a party at Twitter’s HQ. John and Ally showed us a great time for a couple days in Lake Tahoe, and we spent a day in Yosemite before going back to SF for a tour of Google and another tech party at Dropbox.&lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;
   &lt;a href=&quot;/images/la.jpg&quot;&gt;&lt;img alt=&quot;Venice Beach&quot; src=&quot;/images/la.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
@@ -121,7 +121,7 @@
 
 &lt;p&gt;Back in Vancouver, Ed and his family were generous enough to put me up for three weeks and I enjoyed the temporary stability of staying in one place with a bunch of my college friends in the same city. I’m especially grateful for the time I got to spend there with my Aunt and Uncle, Jan and Grant. We went on a big hike up to Lake Garibaldi, watched movies, and connected really well.&lt;/p&gt;
 
-&lt;p&gt;Eventually it was time to move on, so I aimed the car south and planned to spend a week in the woods in Washington and Oregon, 2 states that I didn’t get to see much of in my hurry to get to Vancouver. I was really looking forward to trying out the solitude, because the rest of the trip had always been with close friends. Unfortunately my timing could have been better and it was cold and rainy the whole time. I didn’t have the motivation to make a fire to cook for myself, so I was eating cold food and wasn’t particularly happy. Many people told me I had to check out the beautiful Crater Lake, but when I got there, it looked like this. &lt;/p&gt;
+&lt;p&gt;Eventually it was time to move on, so I aimed the car south and planned to spend a week in the woods in Washington and Oregon, 2 states that I didn’t get to see much of in my hurry to get to Vancouver. I was really looking forward to trying out the solitude, because the rest of the trip had always been with close friends. Unfortunately my timing could have been better and it was cold and rainy the whole time. I didn’t have the motivation to make a fire to cook for myself, so I was eating cold food and wasn’t particularly happy. Many people told me I had to check out the beautiful Crater Lake, but when I got there, it looked like this.&lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;
   &lt;a href=&quot;/images/craterlake.jpg&quot;&gt;&lt;img alt=&quot;Crater Lake&quot; src=&quot;/images/craterlake.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
@@ -130,7 +130,7 @@
 
 &lt;p&gt;I resolved to just get south as quickly as I could to evade what seemed like the arrival of winter. Maybe it was a coincidence, but the instant I made it over the California border, things got better. The sun was out and I headed straight to the familiarity of Mount Shasta. I spent an afternoon in the park, drinking the freshest spring water you’ll ever taste, and playing frisbee with some people I met. They invited me to join them in their campsite so we hit the grocery store and drove straight up the mountain and took a hidden dirt road deep into the forest. It turns out these new friends of mine were travelling chefs! We made a big fire and ate like kings and I was very happy to be back in California.&lt;/p&gt;
 
-&lt;p&gt;After a magical few days in the Redwood forests north of San Francisco, I headed into the city to reconnect with the people I had met. Within hours of arriving, Katrina and Kavya invited me to an all-inclusive free concert featuring Aerosmith and Macklemore. It was surreal. I also got to check out an incredible music festival: Hardly Strictly Bluegrass. This free festival was 100% free of advertising and attracted 700,000 fans over the course of the weekend. &lt;/p&gt;
+&lt;p&gt;After a magical few days in the Redwood forests north of San Francisco, I headed into the city to reconnect with the people I had met. Within hours of arriving, Katrina and Kavya invited me to an all-inclusive free concert featuring Aerosmith and Macklemore. It was surreal. I also got to check out an incredible music festival: Hardly Strictly Bluegrass. This free festival was 100% free of advertising and attracted 700,000 fans over the course of the weekend.&lt;/p&gt;
 
 &lt;figure class=&quot;half&quot;&gt;
   &lt;a href=&quot;/images/large/aerosmith.jpg&quot;&gt;&lt;img src=&quot;/images/aerosmith.jpg&quot; alt=&quot;Aerosmith&quot; /&gt;&lt;/a&gt;
@@ -139,11 +139,11 @@
 
 &lt;p&gt;It was cheaper to fly home than to pay rent in San Francisco, so I took the opportunity to spend a month on the east coast. I got to spend more time in New York with the family than I had since 2010, and I also made it to Montreal, Boston, and Rhode Island visiting friends.&lt;/p&gt;
 
-&lt;p&gt;Determined to settle down, I finally moved out to San Francisco, but ended up popping up to Vancouver over American Thanksgiving, and dropped in on some friends in Seattle while I was in the neighbourhood. &lt;/p&gt;
+&lt;p&gt;Determined to settle down, I finally moved out to San Francisco, but ended up popping up to Vancouver over American Thanksgiving, and dropped in on some friends in Seattle while I was in the neighbourhood.&lt;/p&gt;
 
 &lt;h1 id=&quot;a-new-life-in-berkeley-california&quot;&gt;A New Life in Berkeley, California&lt;/h1&gt;
 
-&lt;p&gt;When I got back to San Francisco, I was thrilled to receive a job offer from the top company I was interested in: 3D Robotics. 3DR is a 5-year-old startup with a mission “to help people see their world from above.” They make drones for aerial photography. I am starting in January as an Engineering Project Manager. They are working on an exciting new product, and it is my job to keep things moving along quickly. As issues come up, I’ll try to figure out what is going on and work with the relevant engineers to decide on a course of action. I love how this job will be dynamic and involve working with people. It’s a natural extension of what I’ve been doing at McGill Robotics and I can’t wait to get started. &lt;/p&gt;
+&lt;p&gt;When I got back to San Francisco, I was thrilled to receive a job offer from the top company I was interested in: 3D Robotics. 3DR is a 5-year-old startup with a mission “to help people see their world from above.” They make drones for aerial photography. I am starting in January as an Engineering Project Manager. They are working on an exciting new product, and it is my job to keep things moving along quickly. As issues come up, I’ll try to figure out what is going on and work with the relevant engineers to decide on a course of action. I love how this job will be dynamic and involve working with people. It’s a natural extension of what I’ve been doing at McGill Robotics and I can’t wait to get started.&lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;
   &lt;a href=&quot;http://instagram.com/p/wZiuqyn0eD/?modal=true&quot;&gt;&lt;img alt=&quot;3D Robotics&quot; src=&quot;/images/3dr.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
@@ -195,7 +195,7 @@
 
 &lt;p&gt;There are also many ways that commercial operations such as agriculture and construction can use drones to gather information to save money, so this market is expected to expand as the legal framework emerges. 3D Robotics explicitly makes its products for non-military purposes.&lt;/p&gt;
 
-&lt;p&gt;I’ll be one of approximately 30 employees in the Berkeley office; the company also has locations in San Diego, Austin, and Tijuana. We’re working on an exciting new product and my mission as Engineering Project Manager is to make things go faster. I’m not a manager in the sense that I’m anybody’s boss, but instead I will be diagnosing problems as they come up, running tests as necessary, and working with the other engineers to decide on the appropriate course of action. &lt;/p&gt;
+&lt;p&gt;I’ll be one of approximately 30 employees in the Berkeley office; the company also has locations in San Diego, Austin, and Tijuana. We’re working on an exciting new product and my mission as Engineering Project Manager is to make things go faster. I’m not a manager in the sense that I’m anybody’s boss, but instead I will be diagnosing problems as they come up, running tests as necessary, and working with the other engineers to decide on the appropriate course of action.&lt;/p&gt;
 
 &lt;p&gt;I’m thrilled with this job description as it combines some of the main aspects of what I’ve loved about McGill Robotics: teamwork, problem solving, product development, interdisciplinary learning, and creativity. I love how I’ll be working with people every day while still being fully immersed in technical engineering challenges. I can’t wait to get started!&lt;/p&gt;
 

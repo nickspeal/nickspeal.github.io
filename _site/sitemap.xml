@@ -6,15 +6,15 @@
     
     
     <url>
-        <loc>http://www.speal.ca/404.html</loc>
-    </url>
-    
-    <url>
-        <loc>http://www.speal.ca/About/</loc>
+        <loc>http://www.speal.ca/404/</loc>
     </url>
     
     <url>
         <loc>http://www.speal.ca/brailleuniversity/</loc>
+    </url>
+    
+    <url>
+        <loc>http://www.speal.ca/About/</loc>
     </url>
     
     <url>
@@ -26,7 +26,7 @@
     </url>
     
     <url>
-        <loc>http://www.speal.ca/index.html</loc>
+        <loc>http://www.speal.ca/</loc>
     </url>
     
     <url>
