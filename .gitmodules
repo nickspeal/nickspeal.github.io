@@ -1,0 +1,3 @@
+[submodule "web-resume"]
+	path = web-resume
+	url = https://github.com/nickspeal/web-resume
