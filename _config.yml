@@ -36,15 +36,15 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Projects
-    url: /Projects/
+    url: /projects/
   - title: Research
-    url: /Research/
+    url: /research/
   - title: blog
     url: /blog/
   - title: Resume
     url: /web-resume
   - title: Contact
-    url: /Contact/
+    url: /contact/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Projects/
+permalink: /projects/
 title: Projects
 tagline: Beyond Academics
 tags: [Projects, McGill Robotics, LunarEx]
@@ -19,7 +19,7 @@ image:
 
 ## Project Manager At McGill Robotics
 
-As Project Manager of McGill Robotics, I led the team through its growth from 2 returning members to 98 committed students that competes in multiple competitions against universities from around the world. Coining our motto, *Team Before Machine*, I have prioritized the long-term development of a cohesive team with a focus on learning new skills as we work together to build robots. 
+As Project Manager of McGill Robotics, I led the team through its growth from 2 returning members to 98 committed students that competes in multiple competitions against universities from around the world. Coining our motto, *Team Before Machine*, I have prioritized the long-term development of a cohesive team with a focus on learning new skills as we work together to build robots.
 
 ## Autonomous Underwater Vehicle
 
